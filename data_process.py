@@ -9,7 +9,7 @@ import imageio
 from pathlib import Path
 from torch.nn.functional import interpolate
 
-
+#test
 class BSDS_Loader(data.Dataset):
     """
     Dataloader BSDS500
